@@ -2,8 +2,15 @@
 
 RentHub is a mobile-first rental marketplace for renters, independent owners, and multi-property organizations.
 
+## Pricing (current)
+- Single listing: **Basic $5 / 30 days only**. Featured $8 and Premium $12 are removed and must not return.
+- Building packs: 1–9 vacancies at $5 each; **10+ advertised vacancies at $2.50 each** (50% off $5). Occupied units do not count.
+- Packs: 4/$20, 10/$25, 16/$40, 32/$80, 64+ custom.
+- Portfolio monthly: 10/$35, 25/$70, 50/$140, 100/$225, 250/$450; 500+ custom.
+
 ## v12 launch features
 - Single listing plan: Basic $5 / 30 days. Featured $8 and Premium $12 plans removed.
+- Building bulk packs for apartment vacancies.
 - Portfolio tiers: 10/$35, 25/$70, 50/$140, 100/$225, 250/$450 monthly; 500+ custom.
 - Portfolio/community/unit architecture for apartment communities and multifamily operators.
 - Search + map, smart natural-language search, filters, saved searches and alert matching.
@@ -35,7 +42,7 @@ Never commit secrets.
 CSV imports create paused listings so the owner can review them before publication/payment.
 
 ## Pricing math
-Portfolio pricing is based on active advertised listings, not every unit owned. This makes the economics work for apartment communities with many occupied units and a smaller number of vacancies.
+Portfolio and building pricing is based on active advertised listings, not every unit owned.
 
 Single-listing checkout is $5 / 30 days only.
 
